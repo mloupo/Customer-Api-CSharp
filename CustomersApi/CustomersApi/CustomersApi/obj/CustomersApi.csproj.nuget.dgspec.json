@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\CustomersApi\\CustomersApi\\CustomersApi.csproj": {}
+    "C:\\Users\\Zen\\ITEC\\AnalistaProgramador\\3er\\Diseño e Implementacion de Sistemas\\Curso-de-.NET\\CustomersApi\\CustomersApi\\CustomersApi\\CustomersApi.csproj": {}
   },
   "projects": {
-    "C:\\repos\\CustomersApi\\CustomersApi\\CustomersApi.csproj": {
+    "C:\\Users\\Zen\\ITEC\\AnalistaProgramador\\3er\\Diseño e Implementacion de Sistemas\\Curso-de-.NET\\CustomersApi\\CustomersApi\\CustomersApi\\CustomersApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\CustomersApi\\CustomersApi\\CustomersApi.csproj",
+        "projectUniqueName": "C:\\Users\\Zen\\ITEC\\AnalistaProgramador\\3er\\Diseño e Implementacion de Sistemas\\Curso-de-.NET\\CustomersApi\\CustomersApi\\CustomersApi\\CustomersApi.csproj",
         "projectName": "CustomersApi",
-        "projectPath": "C:\\repos\\CustomersApi\\CustomersApi\\CustomersApi.csproj",
-        "packagesPath": "C:\\Users\\ivana\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\CustomersApi\\CustomersApi\\obj\\",
+        "projectPath": "C:\\Users\\Zen\\ITEC\\AnalistaProgramador\\3er\\Diseño e Implementacion de Sistemas\\Curso-de-.NET\\CustomersApi\\CustomersApi\\CustomersApi\\CustomersApi.csproj",
+        "packagesPath": "C:\\Users\\Zen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zen\\ITEC\\AnalistaProgramador\\3er\\Diseño e Implementacion de Sistemas\\Curso-de-.NET\\CustomersApi\\CustomersApi\\CustomersApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ivana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
